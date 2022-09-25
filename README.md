@@ -1,4 +1,4 @@
-# icebergify
+# icecastify
 An express framework application that displays your spotify podcast iceberg 
 
 Your spotify iceberg is your favorite podcasts ranked from most popular (at the top of the iceberg) to most undergroud (at the bottom of the iceberg)
