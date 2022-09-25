@@ -34,21 +34,36 @@ Then, open `http://localhost:3000` in a browser.
 
 Dependencies-
 @types/gapi.auth2@0.0.56
+
 @types/gapi@0.0.42
+
 express@4.18.1
+
 gapi@0.0.3
+
 node-fetch@3.2.10
+
 nodemon@2.0.20
+
 pug@3.0.2
+
 selenium-webdriver@4.4.0
 
 
 ## TODO:
+
 Express Framework to display your personized iceberg of podcast ✅
+
 Set up Express Framework ✅ 
+
 Connect to spotify’s authentication api ✅
+
 GET request user’s podcast information from the spotify Podcast api from fetch ✅
+
 If authenticated, send user to iceberg page ✅
+
 Create Javascript Selenium program to get searches of each podcast name ✅
+
 Rank podcast from least to greatest ✅
+
 
